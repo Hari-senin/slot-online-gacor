@@ -1,0 +1,15 @@
+{
+  "name": "slot-gacor-hari-ini",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "Slot gacor hari ini",
+  "keywords": [
+    "slot gacor",
+    "rtp live slot"
+  ],
+  "repository": "https://github.com/kimbkiong/slot-gacor-hari-ini",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
