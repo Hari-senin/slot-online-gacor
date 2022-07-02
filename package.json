@@ -1,8 +1,8 @@
 {
-  "name": "slot",
+  "name": "slot-online-gacor",
   "theme": "ui",
   "version": "1.4.0",
-  "description": "Slot",
+  "description": "Slot Online Gacor",
   "keywords": [
     "slot",
     "slot online",
@@ -10,7 +10,7 @@
     "daftar situs gacor",
     "slot online gacor"
   ],
-  "repository": "https://github.com/Hari-senin/slot",
+  "repository": "https://github.com/Hari-senin/slot-online-gacor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
